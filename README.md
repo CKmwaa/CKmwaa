@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CK
+- 👋 Hi, I’m Caleb
 - 👀 I’m interested in coding
 - I’m currently learning web programming
 - I’m looking to collaborate on web designing projects
